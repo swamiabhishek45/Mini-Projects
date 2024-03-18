@@ -1,4 +1,5 @@
 {
-    "vscode_vibrancy.theme": "Default Dark",
-    "liveServer.settings.CustomBrowser": "firefox:PrivateMode"
+  "vscode_vibrancy.theme": "Default Dark",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "workbench.tree.indent": 8
 }
